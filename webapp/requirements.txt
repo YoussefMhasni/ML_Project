@@ -1,0 +1,5 @@
+google_auth==2.23.3
+Pillow==10.1.0
+Pillow==10.1.0
+Requests==2.31.0
+streamlit==1.28.0

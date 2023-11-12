@@ -1,0 +1,11 @@
+{
+  "id": "1a321aef-38bf-4a7e-afdf-f1baa8701b50",
+  "name": "New Project",
+  "description": null,
+  "dashboard": {
+    "name": "New Project",
+    "panels": []
+  },
+  "date_from": null,
+  "date_to": null
+}
